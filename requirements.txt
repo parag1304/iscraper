@@ -1,0 +1,2 @@
+igramscraper==0.3.2
+discord-webhook==0.14.0
